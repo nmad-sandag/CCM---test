@@ -1,3 +1,3 @@
-# CCM-test
+# Cohort Component Model (CCM)
 This is created for population projection to 2060 using Cohort Component Model.
 "Population projections are estimates of the population for future dates. They are typically based on an estimated population consistent with the most recent decennial census and are produced using the cohort-component method. Projections illustrate possible courses of population change based on assumptions about future births, deaths, net international migration, and domestic migration. In some cases, several series of projections are produced based on alternative assumptions for future fertility, life expectancy, net international migration, and (for state-level projections) state-to-state or domestic migration."
